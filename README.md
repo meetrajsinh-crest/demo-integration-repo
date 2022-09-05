@@ -1,2 +1,2 @@
 # demo-integration-repo
-demo
+demo integration
